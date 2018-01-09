@@ -1,0 +1,500 @@
+<currency>
+	<name>Bitcoin</name>
+	<price>$14675.00</price>
+	<change>-3.10%</change>
+</currency>
+<currency>
+	<name>Ethereum</name>
+	<price>$1281.77</price>
+	<change>10.90%</change>
+</currency>
+<currency>
+	<name>Ripple</name>
+	<price>$2.13</price>
+	<change>-14.21%</change>
+</currency>
+<currency>
+	<name>Bitcoin Cash</name>
+	<price>$2391.00</price>
+	<change>-1.05%</change>
+</currency>
+<currency>
+	<name>Cardano</name>
+	<price>$0.828275</price>
+	<change>-8.52%</change>
+</currency>
+<currency>
+	<name>NEM</name>
+	<price>$1.57</price>
+	<change>-5.52%</change>
+</currency>
+<currency>
+	<name>Litecoin</name>
+	<price>$248.84</price>
+	<change>-2.36%</change>
+</currency>
+<currency>
+	<name>Stellar</name>
+	<price>$0.592642</price>
+	<change>-8.06%</change>
+</currency>
+<currency>
+	<name>IOTA</name>
+	<price>$3.54</price>
+	<change>-8.47%</change>
+</currency>
+<currency>
+	<name>Dash</name>
+	<price>$1109.92</price>
+	<change>2.04%</change>
+</currency>
+<currency>
+	<name>NEO</name>
+	<price>$127.50</price>
+	<change>24.08%</change>
+</currency>
+<currency>
+	<name>TRON</name>
+	<price>$0.119777</price>
+	<change>-23.95%</change>
+</currency>
+<currency>
+	<name>Monero</name>
+	<price>$424.47</price>
+	<change>5.71%</change>
+</currency>
+<currency>
+	<name>EOS</name>
+	<price>$9.41</price>
+	<change>-3.73%</change>
+</currency>
+<currency>
+	<name>ICON</name>
+	<price>$12.34</price>
+	<change>17.38%</change>
+</currency>
+<currency>
+	<name>Bitcoin Gold</name>
+	<price>$244.03</price>
+	<change>3.01%</change>
+</currency>
+<currency>
+	<name>RaiBlocks</name>
+	<price>$29.67</price>
+	<change>14.25%</change>
+</currency>
+<currency>
+	<name>Qtum</name>
+	<price>$53.38</price>
+	<change>-5.50%</change>
+</currency>
+<currency>
+	<name>Ethereum Classic</name>
+	<price>$36.88</price>
+	<change>6.79%</change>
+</currency>
+<currency>
+	<name>Lisk</name>
+	<price>$30.67</price>
+	<change>-1.39%</change>
+</currency>
+<currency>
+	<name>Verge</name>
+	<price>$0.194303</price>
+	<change>7.37%</change>
+</currency>
+<currency>
+	<name>OmiseGO</name>
+	<price>$25.43</price>
+	<change>3.91%</change>
+</currency>
+<currency>
+	<name>Siacoin</name>
+	<price>$0.075593</price>
+	<change>-5.13%</change>
+</currency>
+<currency>
+	<name>Bytecoin</name>
+	<price>$0.012482</price>
+	<change>-6.02%</change>
+</currency>
+<currency>
+	<name>BitConnect</name>
+	<price>$358.42</price>
+	<change>-0.69%</change>
+</currency>
+<currency>
+	<name>Populous</name>
+	<price>$55.52</price>
+	<change>-4.56%</change>
+</currency>
+<currency>
+	<name>Zcash</name>
+	<price>$663.90</price>
+	<change>-4.90%</change>
+</currency>
+<currency>
+	<name>Stratis</name>
+	<price>$19.85</price>
+	<change>-9.08%</change>
+</currency>
+<currency>
+	<name>BitShares</name>
+	<price>$0.696465</price>
+	<change>-8.16%</change>
+</currency>
+<currency>
+	<name>Binance Coin</name>
+	<price>$17.33</price>
+	<change>-6.38%</change>
+</currency>
+<currency>
+	<name>Dogecoin</name>
+	<price>$0.014255</price>
+	<change>-5.71%</change>
+</currency>
+<currency>
+	<name>Ardor</name>
+	<price>$1.57</price>
+	<change>-2.44%</change>
+</currency>
+<currency>
+	<name>KuCoin Shares</name>
+	<price>$17.02</price>
+	<change>-3.39%</change>
+</currency>
+<currency>
+	<name>Status</name>
+	<price>$0.441294</price>
+	<change>-6.13%</change>
+</currency>
+<currency>
+	<name>Steem</name>
+	<price>$6.03</price>
+	<change>0.14%</change>
+</currency>
+<currency>
+	<name>Tether</name>
+	<price>$1.01</price>
+	<change>-0.64%</change>
+</currency>
+<currency>
+	<name>Waves</name>
+	<price>$13.25</price>
+	<change>-0.22%</change>
+</currency>
+<currency>
+	<name>WAX</name>
+	<price>$2.62</price>
+	<change>130.50%</change>
+</currency>
+<currency>
+	<name>VeChain</name>
+	<price>$4.54</price>
+	<change>5.99%</change>
+</currency>
+<currency>
+	<name>Dentacoin</name>
+	<price>$0.003730</price>
+	<change>-36.84%</change>
+</currency>
+<currency>
+	<name>Dragonchain</name>
+	<price>$5.00</price>
+	<change>19.13%</change>
+</currency>
+<currency>
+	<name>0x</name>
+	<price>$2.32</price>
+	<change>38.67%</change>
+</currency>
+<currency>
+	<name>DigiByte</name>
+	<price>$0.113872</price>
+	<change>-3.11%</change>
+</currency>
+<currency>
+	<name>Dent</name>
+	<price>$0.100317</price>
+	<change>36.86%</change>
+</currency>
+<currency>
+	<name>Augur</name>
+	<price>$94.26</price>
+	<change>2.05%</change>
+</currency>
+<currency>
+	<name>Hshare</name>
+	<price>$22.87</price>
+	<change>13.49%</change>
+</currency>
+<currency>
+	<name>Veritaseum</name>
+	<price>$467.63</price>
+	<change>8.66%</change>
+</currency>
+<currency>
+	<name>Komodo</name>
+	<price>$9.16</price>
+	<change>-5.42%</change>
+</currency>
+<currency>
+	<name>Ark</name>
+	<price>$9.49</price>
+	<change>19.14%</change>
+</currency>
+<currency>
+	<name>Basic Attenti...</name>
+	<price>$0.925019</price>
+	<change>10.51%</change>
+</currency>
+<currency>
+	<name>Golem</name>
+	<price>$1.07</price>
+	<change>-1.63%</change>
+</currency>
+<currency>
+	<name>Electroneum</name>
+	<price>$0.161158</price>
+	<change>-3.35%</change>
+</currency>
+<currency>
+	<name>FunFair</name>
+	<price>$0.187117</price>
+	<change>14.79%</change>
+</currency>
+<currency>
+	<name>Kyber Network</name>
+	<price>$5.78</price>
+	<change>18.49%</change>
+</currency>
+<currency>
+	<name>Decred</name>
+	<price>$117.66</price>
+	<change>7.05%</change>
+</currency>
+<currency>
+	<name>SALT</name>
+	<price>$13.66</price>
+	<change>-9.93%</change>
+</currency>
+<currency>
+	<name>Experience Po...</name>
+	<price>$0.003503</price>
+	<change>9.16%</change>
+</currency>
+<currency>
+	<name>PIVX</name>
+	<price>$12.71</price>
+	<change>6.97%</change>
+</currency>
+<currency>
+	<name>Ethos</name>
+	<price>$9.31</price>
+	<change>-6.42%</change>
+</currency>
+<currency>
+	<name>Substratum</name>
+	<price>$3.00</price>
+	<change>18.24%</change>
+</currency>
+<currency>
+	<name>Nexus</name>
+	<price>$12.23</price>
+	<change>-5.42%</change>
+</currency>
+<currency>
+	<name>Aion</name>
+	<price>$10.75</price>
+	<change>20.39%</change>
+</currency>
+<currency>
+	<name>QASH</name>
+	<price>$1.88</price>
+	<change>0.74%</change>
+</currency>
+<currency>
+	<name>ReddCoin</name>
+	<price>$0.022808</price>
+	<change>-10.34%</change>
+</currency>
+<currency>
+	<name>Medibloc</name>
+	<price>$0.215109</price>
+	<change>77.58%</change>
+</currency>
+<currency>
+	<name>aelf</name>
+	<price>$2.54</price>
+	<change>14.19%</change>
+</currency>
+<currency>
+	<name>Neblio</name>
+	<price>$48.58</price>
+	<change>5.99%</change>
+</currency>
+<currency>
+	<name>Power Ledger</name>
+	<price>$1.70</price>
+	<change>6.74%</change>
+</currency>
+<currency>
+	<name>Factom</name>
+	<price>$69.48</price>
+	<change>-4.43%</change>
+</currency>
+<currency>
+	<name>Request Network</name>
+	<price>$0.915504</price>
+	<change>-1.56%</change>
+</currency>
+<currency>
+	<name>DeepBrain Chain</name>
+	<price>$0.650585</price>
+	<change>53.47%</change>
+</currency>
+<currency>
+	<name>Gas</name>
+	<price>$63.56</price>
+	<change>30.05%</change>
+</currency>
+<currency>
+	<name>Aeternity</name>
+	<price>$2.49</price>
+	<change>0.36%</change>
+</currency>
+<currency>
+	<name>Kin</name>
+	<price>$0.000759</price>
+	<change>-30.32%</change>
+</currency>
+<currency>
+	<name>Enigma</name>
+	<price>$7.57</price>
+	<change>12.98%</change>
+</currency>
+<currency>
+	<name>Bytom</name>
+	<price>$0.562575</price>
+	<change>0.46%</change>
+</currency>
+<currency>
+	<name>MonaCoin</name>
+	<price>$9.52</price>
+	<change>12.72%</change>
+</currency>
+<currency>
+	<name>Iconomi</name>
+	<price>$5.28</price>
+	<change>30.66%</change>
+</currency>
+<currency>
+	<name>MaidSafeCoin</name>
+	<price>$1.14</price>
+	<change>10.81%</change>
+</currency>
+<currency>
+	<name>RChain</name>
+	<price>$2.81</price>
+	<change>-1.67%</change>
+</currency>
+<currency>
+	<name>BitcoinDark</name>
+	<price>$389.94</price>
+	<change>6.26%</change>
+</currency>
+<currency>
+	<name>Byteball Bytes</name>
+	<price>$777.99</price>
+	<change>8.69%</change>
+</currency>
+<currency>
+	<name>DigixDAO</name>
+	<price>$250.51</price>
+	<change>22.08%</change>
+</currency>
+<currency>
+	<name>Nxt</name>
+	<price>$0.497219</price>
+	<change>0.58%</change>
+</currency>
+<currency>
+	<name>Storm</name>
+	<price>$0.202833</price>
+	<change>40.58%</change>
+</currency>
+<currency>
+	<name>Cobinhood</name>
+	<price>$1.43</price>
+	<change>15.74%</change>
+</currency>
+<currency>
+	<name>Syscoin</name>
+	<price>$0.894825</price>
+	<change>6.97%</change>
+</currency>
+<currency>
+	<name>ChainLink</name>
+	<price>$1.33</price>
+	<change>1.24%</change>
+</currency>
+<currency>
+	<name>DigitalNote</name>
+	<price>$0.067436</price>
+	<change>-8.24%</change>
+</currency>
+<currency>
+	<name>Santiment Net...</name>
+	<price>$7.02</price>
+	<change>-2.59%</change>
+</currency>
+<currency>
+	<name>Time New Bank</name>
+	<price>$0.260706</price>
+	<change>-14.71%</change>
+</currency>
+<currency>
+	<name>Quantstamp</name>
+	<price>$0.682938</price>
+	<change>-9.96%</change>
+</currency>
+<currency>
+	<name>Gnosis</name>
+	<price>$378.42</price>
+	<change>7.21%</change>
+</currency>
+<currency>
+	<name>TenX</name>
+	<price>$3.95</price>
+	<change>1.95%</change>
+</currency>
+<currency>
+	<name>Raiden Networ...</name>
+	<price>$8.19</price>
+	<change>13.94%</change>
+</currency>
+<currency>
+	<name>GameCredits</name>
+	<price>$6.25</price>
+	<change>22.03%</change>
+</currency>
+<currency>
+	<name>Achain</name>
+	<price>$1.34</price>
+	<change>20.41%</change>
+</currency>
+<currency>
+	<name>Bancor</name>
+	<price>$9.72</price>
+	<change>12.48%</change>
+</currency>
+<currency>
+	<name>Civic</name>
+	<price>$1.15</price>
+	<change>6.63%</change>
+</currency>
+<currency>
+	<name>BLOCKv</name>
+	<price>$0.266710</price>
+	<change>0.70%</change>
+</currency>
